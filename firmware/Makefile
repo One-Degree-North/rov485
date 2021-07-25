@@ -89,7 +89,7 @@ PROJECT = ch
 MCU  = cortex-m0
 
 # Imported source files and paths.
-CHIBIOS  := ../../..
+CHIBIOS  := C:\ChibiStudio\chibios216
 CONFDIR  := ./cfg
 BUILDDIR := ./build
 DEPDIR   := ./.dep

@@ -5,6 +5,4 @@ firmware/build/*
 firmware/cfg/*
 firmware/debug/*
 firmware/.dep/*
-firmware/.cproject
-firmware/.project
 firmware/readme.txt
