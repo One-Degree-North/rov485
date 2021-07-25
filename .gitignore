@@ -1,0 +1,10 @@
+# .gitignore for rov485
+
+# ChibiOS Packages
+firmware/build/*
+firmware/cfg/*
+firmware/debug/*
+firmware/.dep/*
+firmware/.cproject
+firmware/.project
+firmware/readme.txt
